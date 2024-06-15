@@ -90,6 +90,9 @@
     <ClCompile Include="SortUtilitiesRunner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="InterviewQuestionRuner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseRunner.h">
@@ -174,6 +177,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SortUtilitiesRunner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterviewQuestionRuner.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

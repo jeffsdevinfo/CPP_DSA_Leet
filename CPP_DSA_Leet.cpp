@@ -14,6 +14,7 @@
 #include "HTInterviewQuestions.h"
 #include "HeapRunner.h"
 #include "SortUtilitiesRunner.h"
+#include "InterviewQuestionRuner.h"
 
 int main()
 {
@@ -33,6 +34,7 @@ int main()
     //genericRunner = new GroupAnagramRunner();
     //genericRunner = new HeapRunner();
     genericRunner = new SortUtilitiesRunner();
+    genericRunner = new InterviewQuestionRuner();
     genericRunner->Run();
 
     //std::vector<std::vector<std::string>> returnVector;

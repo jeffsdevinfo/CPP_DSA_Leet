@@ -140,6 +140,7 @@
     <ClCompile Include="HashTableRunner.cpp" />
     <ClCompile Include="Heap.cpp" />
     <ClCompile Include="HTNode.cpp" />
+    <ClCompile Include="InterviewQuestionRuner.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="LinkedListRunner.cpp" />
     <ClCompile Include="Node.cpp" />
@@ -170,6 +171,7 @@
     <ClInclude Include="HeapRunner.h" />
     <ClInclude Include="HTInterviewQuestions.h" />
     <ClInclude Include="HTNode.h" />
+    <ClInclude Include="InterviewQuestionRuner.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="LinkedListRunner.h" />
     <ClInclude Include="Node.h" />
