@@ -23,9 +23,9 @@ void removeElement(std::vector<int>& nums, int val)
 	//nums.resize(newSize);
 
 	int i = 0;
-	for(int j = 0; j < nums.size(); j++)
+	for (int j = 0; j < nums.size(); j++)
 	{
-		if(nums[j] != val)
+		if (nums[j] != val)
 		{
 			nums[i++] = nums[j];
 		}
